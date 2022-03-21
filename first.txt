@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ok yes change. and another. third. 4th. 5th. 6th 
+=======
+ok yes change. and another. third. 4th. 5th
+>>>>>>> fe8bde3b2d1995b2819a7c74c88c44c765d8e2b2
