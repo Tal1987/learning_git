@@ -2,3 +2,6 @@ my first line in fourth text file
 just something completely different
 add line1 of code
 add line2 of code
+add line3 of code
+add line4
+add line5 
